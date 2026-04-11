@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "BYPMQ3G4HB.com.pyoba.retrochirp",
+        "paths": [
+          "/invite/*"
+        ]
+      }
+    ]
+  }
+}
